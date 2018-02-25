@@ -11,6 +11,7 @@ body{
 
 a{
     color: seashell;
+    padding: 0 10px 0 10px;
 }
 /*Header*/
 
@@ -33,7 +34,7 @@ header{
 }
 
 nav{
-    padding-right: 40px;
+    padding-right: 30px;
 }
 
 /*Main content*/
@@ -99,6 +100,7 @@ nav{
 
 .location h2{
     margin: 15px;
+    font-weight: bold;
 /*
     width: 980px;
     background-color: coral;
